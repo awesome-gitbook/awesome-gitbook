@@ -1,4 +1,4 @@
-# Awesome GitBook
+# Awesome GitBook [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
  
 > A curated list of outstanding technical documentations hosted on [GitBook](https://www.gitbook.com/) — for inspiration on structure, content depth, and design.
  
